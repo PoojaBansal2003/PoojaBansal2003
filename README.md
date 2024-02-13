@@ -1,4 +1,4 @@
-![MasterHead](https://imarticus.org/blog/wp-content/uploads/2021/12/bwgg.gif)
+
 
 <h1 align="center">Hi 👋, I'm Pooja Bansal</h1>
 <h3 align="center">Coding Enthusiast & MERN Explorer</h3>
